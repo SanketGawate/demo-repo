@@ -1,0 +1,6 @@
+git init -----to inistialize the git  repo
+git add -----to add the untracked files into stagging area
+git commit ----to commit the stagged files
+git push ----- to push the files to the remote git
+git pull -----to pull the files from the remote to the local system
+git status-----to check the the status of the file
